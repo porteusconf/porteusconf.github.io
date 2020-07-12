@@ -17,7 +17,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-octicons'
 end
-
+gem "activesupport", ">= 6.0.3.1"
 gem "jekyll-github-metadata"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -32,4 +32,5 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "faraday", "< 1.0"
 gem "activesupport", ">= 6.0.3.1"
+
 
