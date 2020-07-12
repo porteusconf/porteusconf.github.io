@@ -1,0 +1,5 @@
+### Finding issues caused by updates ###
+You can search at the "Windows release health dashboard" for your version (To find your version: start -> winver) For example, for win10-1909, it would be https://docs.microsoft.com/en-us/windows/release-information/status-windows-10-1909
+It takes at least a few days for microsoft to admit to issues that show up first on reddit, askwoody.com, etc. Ask-woody maintains a MS-DEFCON rating of current dangerousness of patching at https://www.askwoody.com/ms-defcon-system/  Woody pretty well documents that for years Microsoft regularly issues faulty updates that, as a result of not having been thorougly tested, end up causing serious problems for more than a few folks. 
+
+Here's a summary of the sad situation, especially for ordinary consumer of windows-home, of microsoft confusingly, constantly renaming release channels rather than better testing updates at https://www.zdnet.com/article/microsoft-stop-feeding-bugs-to-a-billion-windows-10-users-heres-how/
