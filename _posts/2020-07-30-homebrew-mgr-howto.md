@@ -9,7 +9,8 @@ Do steps below as shown in the first minute of this 2-minute video (https://www.
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 ### Example: Use `brew` to `search` for `pymol`, then install it (another 2 minutes).
-The only 2 command you need are `brew search pymol` and `brew install brewsci/bio/pymol` and the results should look similar to transcript below. Note: All `brew` formulas, like for pymol install in /usr/local and so brew should *not* break or touch any existing Pymol you have. It is very well behaved that way!  Plus the pymol that brew installs is 100% free and open-source, and so never requires any activation nor any license. 
+Now that you have brew, you can use it to install 1000's of formula and casks (Applications), using just `brew search` and `brew install`.
+For example, if you do `brew search pymol` and `brew install brewsci/bio/pymol` results should be similar to below.  Note: All `brew` formulas, like for pymol install in /usr/local and so brew should *not* break or touch any existing Pymol you have. It is very well behaved that way!  Plus the pymol that brew installs is 100% free and open-source, and so never requires any activation nor any license. 
 ```command
 $     brew search pymol
 ==> Formulae
