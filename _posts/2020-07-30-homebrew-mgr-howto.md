@@ -1,7 +1,7 @@
 ### Quickstart for installing homebrew on your macintosh in 2 minutes
 (This is just a quick "cheat-sheet" to get you started... I'll try to find better guides for using brew or add them to a wiki!)
-Do steps below as shown in the first minute of this 2-minute video (https://www.youtube.com/watch?v=NhOkYXB2_QQ)
-  * Do a google search for "homebrew mac" and top hit should take you to (https://brew.sh/) 
+Do steps below as shown in the first minute of this 2-minute video https://www.youtube.com/watch?v=NhOkYXB2_QQ
+  * Do a google search for "homebrew mac" and top hit should take you to https://brew.sh/
   * Finder: Go: Utilities: Terminal
   * Copy and paste the long line from above website into Terminal (and hit return/enter key). At some point it asks you to type in the password for your mac in the Terminal... no dots appear as you type it: just blindly type it and hit enter key. The brew commands can output a lot of info that scrolls by and that is normal.
 
