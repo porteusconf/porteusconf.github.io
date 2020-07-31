@@ -38,3 +38,4 @@ Optionally, do next 2 lines to put pymol.command on desktop that you click to ru
 $    which pymol > ~/Desktop/pymol.command
 $    chmod a+x ~/Desktop/pymol.command
 ```
+![screenshot of pymol running](https://raw.githubusercontent.com/porteusconf/porteusconf.github.io/master/images/pymol-open-source-version.png)
